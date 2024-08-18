@@ -1,13 +1,13 @@
-title: "My Blogs Name"
+title: "Austin Slakey"
 author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Generative AI and other tech learnings." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "acslakey@gmail.com"
 twitter_username: "bigslakes"
 github_username: "aslakey"
-linkedin_username: "austin-slakey-a0864754"
+linkedin_username: "austin-slakey"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -20,7 +20,7 @@ linkedin_username: "austin-slakey-a0864754"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
