@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi this is Austin.  I am currently a lead scientist on Netflix's Generative AI project. I will use this blog to document learnings and projects along the way. 
