@@ -1,1 +1,1 @@
-Hi this is Austin.  I am currently a lead scientist on Netflix's Generative AI project. I will use this blog to document learnings and projects along the way. 
+Hi this is Austin.  I am currently a lead scientist on Netflix's Generative AI project. Prior to this I worked on Content Demand Modeling to help answer how successful a title might be on service. Before that, I developed recommendations algorithms for Apple Music, TV, Arcade and App Store.  I will use this blog to document learnings and projects along the way. 
